@@ -1,0 +1,57 @@
+﻿Build started 20-Nov-13 7:50:26 PM.
+     1>Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\framework\object2d.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\framework\circle2d.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\framework\circle2d.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(42): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(74): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(172): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(203): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(213): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(218): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(238): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(247): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(256): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(300): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(304): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(371): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(451): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(453): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(456): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(479): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(536): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(550): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(608): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 2\lab3\lab2\main.cpp(611): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\Debug\lab3.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\Debug\lab3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\Debug\lab3.lib" /MACHINE:X86 Debug\Collision.obj
+         Debug\Enemy1.obj
+         Debug\Enemy2.obj
+         Debug\Enemy3.obj
+         Debug\Enemy4.obj
+         Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Transform3D.obj
+         Debug\Visual2D.obj
+         Debug\GenericObject.obj
+         Debug\main.obj
+         Debug\Paralelipiped.obj
+         Debug\PlayerCar.obj
+         Debug\Road.obj
+         Debug\Shield.obj
+         Debug\Strip.obj
+         Debug\Wheel.obj
+         lab2.vcxproj -> D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\Debug\lab3.exe
+     1>Done Building Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 2\lab3\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.11
